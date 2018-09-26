@@ -1,3 +1,4 @@
+body{background-color: #ccc;}
 .main{padding-top:20%;}
 .clock{border:2px solid #cec9c9;text-align: center;padding:20px 0;width:220px;border-radius:2%;background-color:black}
 span{color:#27EFF4}
