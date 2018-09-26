@@ -16,8 +16,7 @@ It is a clock , a digital clock that shows current time.
 * javascript
 
 ## Live Demo
-to view live demo <a href="https://estherwangari.github.io/digital-clock/"
-">click here</a>
+to view live demo <a href="https://estherwangari.github.io/digital-clock/">click here</a>
 
 
 ## Support and Contact
